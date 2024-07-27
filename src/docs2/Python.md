@@ -1,5 +1,5 @@
 ---
-title: 手动安装
+title: Python
 icon: fa-solid fa-heart
 editLink: false
 order: 2

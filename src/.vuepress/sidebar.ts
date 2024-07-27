@@ -4,14 +4,14 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Yunzai搭建",
+      text: "自动搭建指南",
       icon: "laptop-code",
       prefix: "docs1/",
       link: "docs1/",
       children: "structure",
     },
     {
-      text: "Python安装",
+      text: "手动搭建指南",
       icon: "laptop-code",
       prefix: "docs2/",
       link: "docs2/",

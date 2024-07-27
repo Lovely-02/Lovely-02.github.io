@@ -1,5 +1,5 @@
 ---
-title: 自动安装
+title: Python
 icon: fa-solid fa-heart
 editLink: false
 order: 2
@@ -10,7 +10,7 @@ tag:
 
 # ZeroTwo
 <!-- more -->
-## 一键安装
+## 安装
 
 ::: code-tabs
 

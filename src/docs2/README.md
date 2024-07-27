@@ -1,5 +1,5 @@
 ---
-title: Python安装指南
+title: 手动搭建指南
 index: false
 icon: laptop-code
 editLink: false

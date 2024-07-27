@@ -1,5 +1,5 @@
 ---
-title: 自动安装
+title: Yunzai
 icon: fa-solid fa-heart
 editLink: false
 order: 2
@@ -10,7 +10,7 @@ tag:
 
 # ZeroTwo
 <!-- more -->
-## 一键安装
+## 安装
 
 ::: code-tabs
 
@@ -34,33 +34,15 @@ bash <(curl -L www.521002.xyz/Yunzai/TRSS-Yunzai.sh)
 
 :::
 
-## Qsign
-
-- Qsign8.9.78
+## Sign
+- 请在 Yunzai 根目录执行
 ::: code-tabs
-
-@tab Linux
-
+@tab bash
 ```bash
-# 下载
-bash <(curl -L www.521002.xyz/Qsign/Qsign.sh)
-# 进入目录
-cd Qsign
-# 守护进程
-screen -R qsign
-# 启动
-bash X
-```
-
-@tab Windows
-
-```bash
-# 下载
-https://www.521002.xyz/Qsign/QsignWindows.zip
-# 双击
-unidbg-fetch-qsign-gui-xiaoqian.exe
+curl -sSL QSign.icu/X | bash
 ```
 :::
+
 
 ## 运行
 ::: code-tabs

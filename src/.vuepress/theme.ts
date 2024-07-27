@@ -4,11 +4,11 @@ import sidebar from "./sidebar.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
-  hostname: "https://x.ylove.love",
+  hostname: "https://www.521002.xyz",
 
   author: {
     name: "ZeroTwo",
-    url: "https://x.ylove.love",
+    url: "https://www.521002.xyz",
   },
 
   iconAssets: "fontawesome-with-brands",

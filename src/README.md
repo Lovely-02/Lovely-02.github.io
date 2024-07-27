@@ -19,10 +19,6 @@ projects:
     desc: 个人自用网盘
     link: http://x.521002.xyz:12345/
 
-  - icon: /favicon.ico
-    name: 02の签名
-    desc: 个人自用签名
-    link: http://x.521002.xyz:3333/
 
   - icon: /favicon.ico
     name: 02の监控
@@ -32,11 +28,11 @@ projects:
   - icon: /favicon.ico
     name: 02のApi
     desc: 随机获得一张美图
-    link: http://x.521002.xyz:7007/
+    link: http://api.521002.xyz/
 
   - icon: /favicon.ico
     name: 02の文档
     desc: 就是本站辣！！！
-    link: https://521002.xyz/
+    link: https://docs.521002.xyz/
 
 footer: ZeroTwo

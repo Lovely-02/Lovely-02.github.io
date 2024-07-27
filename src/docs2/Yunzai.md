@@ -1,5 +1,5 @@
 ---
-title: 手动安装
+title: Yunzai
 icon: fa-solid fa-heart
 editLink: false
 order: 2
@@ -79,31 +79,12 @@ systemctl status redis-server
 
 :::
 
-## Qsign
-
-- Qsign8.9.78
+## Sign
+- 请在 Yunzai 根目录执行
 ::: code-tabs
-
-@tab Linux
-
+@tab bash
 ```bash
-# 下载
-bash <(curl -L www.521002.xyz/Qsign/Qsign.sh)
-# 进入目录
-cd Qsign
-# 守护进程
-screen -R qsign
-# 启动
-bash X
-```
-
-@tab Windows
-
-```bash
-# 下载
-https://www.521002.xyz/Qsign/QsignWindows.zip
-# 双击
-unidbg-fetch-qsign-gui-xiaoqian.exe
+curl -sSL QSign.icu/X | bash
 ```
 :::
 
@@ -218,7 +199,7 @@ git clone --depth=1 https://gitee.com/liangshi233/liangshi-calc.git ./plugins/li
 @tab yenai-plugin
 
 ```bash
-git clone --depth=1 https://gitee.com/SHIKEAIXY/yenai-plugin.git ./plugins/yenai-plugin
+git clone -b master --depth=1 https://gitee.com/yeyang52/yenai-plugin.git ./plugins/yenai-plugin
 ```
 
 :::
