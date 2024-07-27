@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://x.ylove.love/sitemap.xml
+Sitemap: https://www.521002.xyz/sitemap.xml
