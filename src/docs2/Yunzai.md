@@ -35,10 +35,7 @@ sudo apt install fonts-wqy-zenhei
 @tab FFmpeg
 
 ```bash
-# Debian
-sudo apt install FFmpeg
-# Ubuntu
-sudo apt-get install ffmpeg
+sudo apt-get install -y ffmpeg
 ```
 
 @tab chromium

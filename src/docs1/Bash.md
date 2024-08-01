@@ -1,5 +1,5 @@
 ---
-title: Python
+title: Bash 
 icon: fa-solid fa-heart
 editLink: false
 order: 2
@@ -31,4 +31,17 @@ bash <(curl -L www.521002.xyz/Python/Python3.10.sh)
 ```bash
 bash <(curl -L www.521002.xyz/Python/Python3.11.sh)
 ```
+
+@tab nezha
+
+```bash
+bash <(curl -L www.521002.xyz/nezha)
+```
+
+@tab Docker
+
+```bash
+bash <(curl -L www.521002.xyz/docker)
+```
+
 :::
