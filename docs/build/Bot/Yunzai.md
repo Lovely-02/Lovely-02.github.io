@@ -1,4 +1,7 @@
 # Yunzai
+## 介绍
+> Yunzai-Bot是一款 `米哈游`的游戏机器人。\
+> 可以查询米游社的数据
 ## 安装
 #### 开源地址
 - [Miao-Yunzai](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)
