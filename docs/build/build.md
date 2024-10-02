@@ -12,6 +12,14 @@
 >请仔细查看指令结构，不响应可能是因为指令格式不正确
 ## 介绍
 - 本文是搭建教程
+- 搭建之前请先准备服务器 可用自己的电脑 可用云服务器
+- 下方是推荐的云服务器商 均可免费试用`1-3`个月
+>1. [腾讯云](https://cloud.tencent.com/)
+>2. [阿里云](https://www.aliyun.com/)
+>3. [华为云](https://activity.huaweicloud.com/)
+
+> [!tip]
+> 请勿向不信任的人透露你的IP (以免受到攻击)
 ## 邀请
 - 您可以进入 02の万事屋 [981784501](https://qm.qq.com/cgi-bin/qm/qr?k=JltWT4rbbbhME1tC2C-ao3thmAbDHYHq&jump_from=webapi&authKey=CkdEoBoSpwe+NftHKpNasfoky+12/Py0EA434ZglGhgLAX1dWx0W7zl6aF/YgTGV) 来获取可用 Bot
 - [点我把机器人拐走哦](https://bot.q.qq.com/s/2usfspxuv?id=102022976)

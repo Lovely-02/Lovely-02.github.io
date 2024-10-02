@@ -8,14 +8,14 @@
 - [TRSS-Yunzai](https://gitee.com/TimeRainStarSky/Yunzai)
 - [插件库](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
 ---
-### Yunzai-Linux
+### Linux
 ::: code-group
 ```sh [一键]
 curl -L Gitee.com/Lovely-02/Install/raw/master/Y | bash
 ```
 :::
-### Yunzai-Windows
-所需软件 Git Node.js Redis [点我下载](http://n100.521002.xyz:12345/Yunzai/Yunzai前置所需)
+### Windows
+所需软件 [Git](https://git-scm.com/downloads/win) [Node.js](https://nodejs.cn/download/) [Redis](https://github.com/tporadowski/redis/releases)
 ::: code-group
 ```sh [Miao-Yunzai]
 curl -L Gitee.com/Lovely-02/Install/raw/master/M | bash
