@@ -1,6 +1,9 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import type { EnhanceAppContext } from 'vitepress'
+import { useMediumZoomProvider } from '../hooks'
+import './global.css'
 import './style.css'
 import './custom-font.css'
 import { 
@@ -20,6 +23,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
-  }
+    useMediumZoomProvider(app, router) 
+  },
 } satisfies Theme

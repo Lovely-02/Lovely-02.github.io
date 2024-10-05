@@ -10,9 +10,9 @@
 - [插件库](https://github.com/zhenxun-org/zhenxun_bot_plugins_index)
 ---
 ### 前提
-真寻Bot需要python版本为 3.10或3.11
+真寻Bot需要 Python 版本为 3.10或3.11
 > [!tip]
-> Python3.9 同样也可以使用，但是需要将pyproject.toml中的版本改为3.9
+>  Python 3.9 同样也可以使用，但是需要将pyproject.toml中的版本改为3.9
 
 安装 [Python](/build/tool/Python)
 ### 数据库

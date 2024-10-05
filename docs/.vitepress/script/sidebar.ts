@@ -48,6 +48,7 @@ const sidebar = {
           text: '🤖部署', link: '/build/Bot/main/', items: [
             { text: 'Yunzai', link: '/build/Bot/Yunzai/', },
             { text: 'zhenxun', link: '/build/Bot/zhenxun/', },
+            { text: 'NoneBot2', link: '/build/Bot/NoneBot2/', },
           ]
         },
         {
