@@ -14,7 +14,7 @@
 - [Yunzai-Bot](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) 是一个功能强大、响应极速的 QQ Bot
 - 用于查询米哈游游戏的多功能机器人
 ## 邀请
-- 您可以进入 02の万事屋 [981784501](https://qm.qq.com/cgi-bin/qm/qr?k=JltWT4rbbbhME1tC2C-ao3thmAbDHYHq&jump_from=webapi&authKey=CkdEoBoSpwe+NftHKpNasfoky+12/Py0EA434ZglGhgLAX1dWx0W7zl6aF/YgTGV) 来获取可用 Bot
+- 您可以进入 QQ群 [981784501](https://qm.qq.com/cgi-bin/qm/qr?k=JltWT4rbbbhME1tC2C-ao3thmAbDHYHq&jump_from=webapi&authKey=CkdEoBoSpwe+NftHKpNasfoky+12/Py0EA434ZglGhgLAX1dWx0W7zl6aF/YgTGV) 来获取可用 Bot
 - [点我把机器人拐走哦](https://bot.q.qq.com/s/2usfspxuv?id=102022976)
 ## 🎮游戏查询
 - [点击跳转](/help/Game/main)

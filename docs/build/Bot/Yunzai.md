@@ -17,12 +17,17 @@ curl -L Gitee.com/Lovely-02/Install/raw/master/Y | bash
 ### Windows
 所需软件 [Git](https://git-scm.com/downloads/win) [Node.js](https://nodejs.cn/download/) [Redis](https://github.com/tporadowski/redis/releases)
 ::: code-group
-```sh [Miao-Yunzai]
-curl -L Gitee.com/Lovely-02/Install/raw/master/M | bash
+```sh [Miao-Yunzai 多插件]
+curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/M | bash
 ```
-
-```sh [TRSS-Yunzai]
-curl -L Gitee.com/Lovely-02/Install/raw/master/T | bash
+```sh [TRSS-Yunzai 多插件]
+curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/T | bash
+```
+```sh [Miao-Yunzai 少插件]
+curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/ML | bash
+```
+```sh [TRSS-Yunzai 少插件]
+curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/TL | bash
 ```
 :::
 ### Sign
