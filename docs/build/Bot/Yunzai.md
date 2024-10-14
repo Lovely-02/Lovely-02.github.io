@@ -11,23 +11,23 @@
 ### Linux
 ::: code-group
 ```sh [一键]
-curl -L Gitee.com/Lovely-02/Install/raw/master/Y | bash
+bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Y)
 ```
 :::
 ### Windows
 所需软件 [Git](https://git-scm.com/downloads/win) [Node.js](https://nodejs.cn/download/) [Redis](https://github.com/tporadowski/redis/releases)
 ::: code-group
 ```sh [Miao-Yunzai 多插件]
-curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/M | bash
+bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/M)
 ```
 ```sh [TRSS-Yunzai 多插件]
-curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/T | bash
+bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/T)
 ```
 ```sh [Miao-Yunzai 少插件]
-curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/ML | bash
+bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/ML)
 ```
 ```sh [TRSS-Yunzai 少插件]
-curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/TL | bash
+bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/TL)
 ```
 :::
 ### Sign
