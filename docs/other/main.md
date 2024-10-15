@@ -7,3 +7,7 @@
 ## 提供的服务
 > 1. [主页](http://521002.xyz/)
 > 2. [API](https://api.521002.xyz/)
+
+## 友链
+> 1. [云崽js](https://apis.zy1314.icu/wj.php)
+> 2. [随机图](https://bj.zy1314.icu/)
