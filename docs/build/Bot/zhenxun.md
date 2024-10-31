@@ -86,8 +86,8 @@ sudo systemctl restart postgresql
 | 项目地址 | 平台 | 核心作者 | 文档 |
 |------------|----------|----------|----------|
 | [LLOneBot](https://github.com/LLOneBot/LLOneBot)|NTQQ|linyuchen|[文档](https://llonebot.github.io/zh-CN/)|
-| [Napcat](https://github.com/NapNeko/NapCatQQ)|NTQQ|NapNeko|[文档](https://llonebot.github.io/zh-CN/)|
-| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core)||linyuchen|[文档](https://llonebot.github.io/zh-CN/)|
+| [Napcat](https://github.com/NapNeko/NapCatQQ)|NTQQ|NapNeko|[文档](https://napneko.github.io/)|
+| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core)||linyuchen|[文档](https://lagrangedev.github.io/Lagrange.Doc/)|
 
 2. 8080是真寻默认端口
 - 反向ws地址：`ws://127.0.0.1:8080/onebot/v11/ws`
