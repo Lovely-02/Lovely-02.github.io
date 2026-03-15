@@ -19,7 +19,7 @@
 
 NoneBot2 需要 Python 版本为 3.9 以上
 
-安装 [Python](/build/tool/Python)
+安装 [Python](../tool/Python)
 
 ### 安装脚手架
 
@@ -40,15 +40,7 @@ pipx install nb-cli
 
 ### QQ
 
-1. 三选一
-   > 人机合一推荐`LLOneBot`\
-   > 只挂机器人推荐`Napcat`
-
-| 项目地址                                                      | 平台 | 核心作者  | 文档                                                |
-| ------------------------------------------------------------- | ---- | --------- | --------------------------------------------------- |
-| [LLOneBot](https://github.com/LLOneBot/LLOneBot)              | NTQQ | linyuchen | [文档](https://llonebot.github.io/zh-CN/)           |
-| [Napcat](https://github.com/NapNeko/NapCatQQ)                 | NTQQ | NapNeko   | [文档](https://napneko.github.io/)                  |
-| [Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) |      | linyuchen | [文档](https://lagrangedev.github.io/Lagrange.Doc/) |
+1. [点我部署协议端](./QQ.md)
 
 2. 8080 是默认端口
 

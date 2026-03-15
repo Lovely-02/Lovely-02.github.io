@@ -48,9 +48,9 @@ bash <(curl -L Gitee.com/Lovely-02/Install/raw/master/Yunzai/TL)
 
 :::
 
-### Sign
+### QQ
 
-- 自行跳转至 [Qsign.icu](https://qsign.icu/) 观看
+- [点我部署协议端](./QQ.md)
 
 ## 运行
 

@@ -28,10 +28,6 @@
 
 - [点击跳转](/help/Game/main)
 
-## 🎲 群聊娱乐
-
-- [点击跳转](/help/Group/main)
-
 ## 关于
 
 - [点击跳转](/other/main)
